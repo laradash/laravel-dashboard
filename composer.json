@@ -1,0 +1,12 @@
+{
+    "name": "laradash/laravel-dashboard-api",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Seong-hyun, Oh",
+            "email": "admin@upgle.com"
+        }
+    ],
+    "require": {}
+}
