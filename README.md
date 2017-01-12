@@ -1,4 +1,5 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
+[![Packagist](https://img.shields.io/packagist/dt/laradash/laravel-dashboard-api.svg)]()
 
 ## Introduction
 Laradash is a mobile application which provides a light, fast and simple dashboard interface. 
