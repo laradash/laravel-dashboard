@@ -2,9 +2,8 @@
 [![Packagist](https://img.shields.io/packagist/dt/laradash/laravel-dashboard-api.svg)]()
 
 ## Introduction
-Laradash is a mobile application which provides a light, fast and simple dashboard interface. 
-
-And this package helps to connect Laradash and web application built with the Laravel framework easily.
+Laradash is a mobile dashboard application which provides a light, fast and simple interface. 
+And this package helps to connect Laradash and web application built with the Laravel PHP framework easily.
 
 ## Installation
 ```
