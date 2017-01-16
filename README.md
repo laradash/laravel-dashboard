@@ -1,5 +1,13 @@
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
-[![Packagist](https://img.shields.io/packagist/dt/laradash/laravel-dashboard-api.svg)]()
+
+<p align="center">
+<img src="https://cloud.githubusercontent.com/assets/5635513/21983039/882a809e-dc32-11e6-84df-29410eef826d.png" />
+</p>
+
+<p align="center">
+<a href="https://packagist.org/packages/laradash/laravel-dashboard-api"><img src="https://poser.pugx.org/laradash/laravel-dashboard-api/d/total.svg" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laradash/laravel-dashboard-api"><img src="https://poser.pugx.org/laradash/laravel-dashboard-api/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laradash/laravel-dashboard-api"><img src="https://poser.pugx.org/laradash/laravel-dashboard-api/license.svg" alt="License"></a>
+</p>
 
 ## Introduction
 Laradash is a mobile dashboard application which provides a light, fast and simple interface. 
