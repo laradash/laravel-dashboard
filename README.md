@@ -25,6 +25,12 @@ You can use [composer](https://getcomposer.org) to install this package.
 composer require laradash/laravel-dashboard-api
 ```
 
+### Way to generate an API key
+This package provides two method for generating keys.
+
+1. Single API key (.env)
+2. Multiple API keys (using database migration)
+
 
 ## Usage example
 - Monitor the state of the server and API.
