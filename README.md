@@ -22,7 +22,7 @@ And this package helps to connect Laradash and web application built with the La
 You can use [composer](https://getcomposer.org) to install this package.
 
 ```php
-composer require laradash/laravel-dashboard-api
+composer require laradash/laravel-dashboard
 ```
 Add the LaradashServiceProvider to the end of the array in `app/config/app.php`.
 
